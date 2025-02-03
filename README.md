@@ -3,6 +3,7 @@ This model is a subcomponent of a smart recycling bin solution which is connecte
 promote sustainable living practices among all age groups.
 
 
+
 ### How the Proposed Smart Recycling Bin (Powered by the Model) Works
 The user would place their disposables into the top holding compartment of the recycling bin which would take a picture and send them to the model that will be hosted on a cloud
 platform. The model will classify them into two categories: Accepted (Plastic bottles, metal cans, cardboard etc.) and Rejected (Food waste). If the items placed are not recyclable,
